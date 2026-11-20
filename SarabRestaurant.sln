@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36127.28 d17.14
+VisualStudioVersion = 17.14.36127.28
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SarabRestaurant", "SarabRestaurant.csproj", "{5A492F6B-13EF-423B-A253-E29943085C09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SarabRestaurant.Services", "..\SarabRestaurant.Services\SarabRestaurant.Services.csproj", "{ACF5F9FF-08A2-4423-8A45-674CAE033C28}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{5A492F6B-13EF-423B-A253-E29943085C09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A492F6B-13EF-423B-A253-E29943085C09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A492F6B-13EF-423B-A253-E29943085C09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACF5F9FF-08A2-4423-8A45-674CAE033C28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACF5F9FF-08A2-4423-8A45-674CAE033C28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACF5F9FF-08A2-4423-8A45-674CAE033C28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACF5F9FF-08A2-4423-8A45-674CAE033C28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
